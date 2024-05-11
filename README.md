@@ -1,7 +1,7 @@
 # Movieflix Sample Web App
 
 This repository contains the source code for a sample web application called Movieflix, built using Spring Boot, MongoDB, and ReactJS. Movieflix is a platform for users to discover and explore movies, featuring a RESTful API backend and a dynamic frontend interface.
-![Movieflix Demo](demo/screen-capture-ezgif.com-video-to-gif-converter.gif)
+- ![Movieflix Demo](demo/screen-capture-ezgif.com-video-to-gif-converter.gif)
 ## Key Technologies Used
 
 - **Spring Boot:** Provides a robust framework for building RESTful web services with minimal configuration.
